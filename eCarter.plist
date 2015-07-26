@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.kinsuft.eCarter</string>
+				<string>cn.kinsuft.eCarter.fixios8</string>
 				<key>bundle-version</key>
 				<string>0.0.2</string>
 				<key>kind</key>
